@@ -1,4 +1,6 @@
-Script from 2019 from when I won my friend a years work on Domino's pizza! I used selenium to automate playing the game and jsoup to read the html. The images were loaded in as (letter)_chosen.png and (letter)_wrong.png. I took all of the _chosen indexes and clicked the corresponding letter.
+#Domino's Iceland Game Script!
+
+## Script from 2019 from when I won my friend a years work on Domino's pizza! I used selenium to automate playing the game and jsoup to read the html. The images were loaded in as (letter)_chosen.png and (letter)_wrong.png. I took all of the _chosen indexes and clicked the corresponding letter.
 
 
 Image of the final score that won:
